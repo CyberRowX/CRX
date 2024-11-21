@@ -68,7 +68,7 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
 chmod 777 *
-python3 nahid.py
+python3 nahid
 
 # TOS:
 ```sh

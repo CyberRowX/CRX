@@ -1,3 +1,6 @@
+<p align="center">
+<img src='https://firebasestorage.googleapis.com/v0/b/sketchware-upload-example.appspot.com/o/sketchware%2Fcare%2Ffiles%2F8691_0?alt=media&token=ae2d3725-0491-45a5-8b18-faa993f91c86' style="height:100px;width:100px;" >
+</p>
 
 <div align=center>
  

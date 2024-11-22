@@ -51,7 +51,6 @@ One star = continuously updating multiple methods
 
 # Setup
 ```sh
-Debain, Ubuntu (Ubuntu 20.04 better):
 sudo apt-get install git -y
 sudo apt-get install golang -y
 sudo apt-get install perl -y
@@ -59,10 +58,6 @@ sudo apt-get install python3 -y
 sudo apt-get install python2 -y
 sudo apt-get install python3-pip -y
 curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -;sudo apt -y install nodejs
-
-How to use: 
-- Recommended in shell of google, azure,...
-- Using vps with high speed will be stronger
 
 apt install golang
 git clone https://github.com/CyberRowX/CRX
@@ -76,11 +71,9 @@ chmod 777 *
 python3 nahid
 
 # TOS:
-```sh
 Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
 the creator is not responsible for the damage caused by the attacks. 
 remember: you are responsible for the attacks since this tool was created for educational purposes
-```
 
 # CONTACT:
 ```sh

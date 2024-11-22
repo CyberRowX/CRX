@@ -60,6 +60,7 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
+apt install golang
 git clone https://github.com/CyberRowX/CRX
 cd CRX/
 npm i requests https-proxy-agent crypto-random-string events fs net cloudscraper request hcaptcha-solver randomstring cluster cloudflare-bypasser http http2 crypto tls

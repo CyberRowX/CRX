@@ -1,2 +1,1 @@
-import os; os.system("git pull"); print("Welcome to X Tools"); os.system("python ")
-
+import os; os.system("git pull"); print("Welcome to X Tools"); os.system("python TonyStark.cython-311.so")

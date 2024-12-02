@@ -1,7 +1,2 @@
-import os
-import time
+import os; os.system("git pull"); print("Welcome to X Tools"); os.system("python ")
 
-os.system("git pull")
-time.sleep(5)
-os.system("clear")
-print(" Tools Updating, Now its not complete")

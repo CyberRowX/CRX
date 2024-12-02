@@ -46,7 +46,8 @@ One star = continuously updating multiple methods
 # Info
 - [x] Powerful
 - [x] Simple
-- [x] Methods for Layer 4 and 7
+- [x] Methods for CYBER
+- [x] Only DDoS
 - [x] Bypass (Cloudflare, OVH, NFO,...)  
 
 

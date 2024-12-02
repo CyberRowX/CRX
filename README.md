@@ -26,6 +26,8 @@ TonyStark Always Without version 👑🥂
  </div>
  
  ## Logs</br>
+ - UPDATE DEVICE RAM SELECTION !
+ - SUPPORT ANY DEVICE, ANY TIME !
  - UPDATE TLS AND HTTP1 METHODS!
  - UPDATE NEW HTTP(s) PROXY!
  
@@ -42,7 +44,6 @@ Thank you for using, please help me press a star button, thank you very much.<br
 One star = continuously updating multiple methods
 
 # Info
-- [x] Open Source
 - [x] Powerful
 - [x] Simple
 - [x] Methods for Layer 4 and 7

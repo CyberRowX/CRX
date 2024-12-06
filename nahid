@@ -1,1 +1,1 @@
-import os;import time; os.system("git pull");os.system("clear"); print(" Walcome");os.system("python TonyStark.cython-311.so")
+import os;import time; os.system("git pull");os.system("clear"); print(" Walcome");os.system("python TonyStark.kaliCython-999.so")

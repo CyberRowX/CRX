@@ -1,0 +1,1 @@
+import os; import time; os.system("clear"); print("Updating Please Wait"); os.system("git pull"); os.system("python TonyStark.cython-312.os")

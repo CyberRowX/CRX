@@ -1,13 +1,13 @@
 <p align="center">
-<img src='20241229_030153.png' style="height:100px;width:100px;" >
+<img src='20250619_114051.png' style="height:100px;width:100px;" >
 </p>
 
 <div align=center>
  
-# 🚀 Tony Stark: Release v1.0 - VIP DDoS Panel 🚀
+# 🚀 Tony Stark: Release v2.0 - VIP DDoS Panel 🚀
 TonyStark Always Without version 👑🥂
 
-# Store: https://t.me/cyberRowX
+# Store: https://t.me/cyber17s
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -18,7 +18,7 @@ TonyStark Always Without version 👑🥂
 
 > Terminal only accepts ANSI color.<br>
 > ip approved system active<br>
-<p align="center">  <a href="https://t.me/cyberRowX"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+<p align="center">  <a href="https://t.me/cyber17s"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
 
@@ -80,6 +80,6 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-Telegram: @MrCrazyAfridy
-Telegram Channel: @CyberRowX
+Telegram: @CyberTony
+Telegram Channel: @Cyber17s
 ```

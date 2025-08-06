@@ -1,5 +1,5 @@
 <p align="center">
-<img src='20250619_114051.png' style="height:100px;width:100px;" >
+<img src='20250619_114051.png' style="height:1832px;width:3264px;" >
 </p>
 
 <div align=center>
